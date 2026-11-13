@@ -1,2 +1,3 @@
 this is lab6 program
 update this line
+new line
